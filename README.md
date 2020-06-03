@@ -5,6 +5,7 @@ General Purpose Languages
 -----------------
 
 * Clojure - http://clojure.org/
+* Concurnas - https://concurnas.com/
 * Scala - http://www.scala-lang.org/
 * Jython - http://www.jython.org/
 * JRuby - http://jruby.org/
